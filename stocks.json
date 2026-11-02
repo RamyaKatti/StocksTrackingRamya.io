@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-11-02 10:27:59 IST",
+    "last_updated": "2026-11-02 20:28:36 IST",
     "stocks": [
         {
             "ticker": "TCS",
-            "price": 2501.699951171875,
-            "change": -0.900146484375,
-            "percent": -0.035968450781169975
+            "price": 2501.7,
+            "change": -0.9000976562501819,
+            "percent": -0.035966499685393075
         },
         {
             "ticker": "RELIANCE",
