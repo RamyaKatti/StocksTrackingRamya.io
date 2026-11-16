@@ -1,29 +1,29 @@
 {
-    "last_updated": "2026-11-13 17:57:49 IST",
+    "last_updated": "2026-11-16 10:32:58 IST",
     "stocks": [
         {
             "ticker": "TCS",
-            "price": 2407.5,
-            "change": -34.89990234375,
-            "percent": -1.428918430198909
+            "price": 2405.0,
+            "change": -2.5,
+            "percent": -0.10384215991692627
         },
         {
             "ticker": "RELIANCE",
-            "price": 1339.699951171875,
-            "change": 0.0,
-            "percent": 0.0
+            "price": 1344.800048828125,
+            "change": 5.10009765625,
+            "percent": 0.3806895455798736
         },
         {
             "ticker": "INFY",
-            "price": 1141.5,
-            "change": -9.699951171875,
-            "percent": -0.8425948213427946
+            "price": 1145.0999755859375,
+            "change": 3.5999755859375,
+            "percent": 0.315372368457074
         },
         {
             "ticker": "HDFCBANK",
-            "price": 804.0,
-            "change": -8.29998779296875,
-            "percent": -1.0217884916531812
+            "price": 816.5,
+            "change": 12.5,
+            "percent": 1.554726368159204
         }
     ]
 }
